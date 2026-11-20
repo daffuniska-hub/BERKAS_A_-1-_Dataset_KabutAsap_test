@@ -8,27 +8,16 @@ Proyek ini berisi pengumpulan dan pengolahan video yang mendokumentasikan kondis
 
 1. Mengumpulkan minimal 30 video tentang kondisi kabut asap.
 2. Mendokumentasikan kondisi kabut asap melalui video.
-3. Mengolah video menjadi klip berdurasi 5–20 detik.
+3. Mengolah video menjadi klip berdurasi 5–15 detik.
 4. Melakukan ekstraksi frame citra dari video.
 5. Menyimpan informasi sumber asli setiap video.
 
-## 3. Struktur Folder
-
-```text
-Sistem_Berkas_Tugas/
-├── Video_kabut_asap
-├── Ekstraksi_frame_citra
-├── README.md
-├── .gitignore
-
-```
-
 ## 4. Informasi Dataset
 
-- Jumlah video: 30 video
+- Jumlah video: 20 video
 - Format video: MP4
 - Durasi setiap video: 5–15 detik
-- Jumlah frame: (isi setelah selesai)
+- Jumlah frame: 20
 - Tema: Dokumentasi kabut asap akibat karhutla.
 
 ## 5. Daftar Sumber Video
@@ -64,4 +53,4 @@ https://drive.google.com/drive/folders/1Z24_Dj76fyA8HmkM1nxb8WhKfAICaXe8?usp=dri
 
 Frame citra diambil dari video yang telah dikumpulkan untuk memperlihatkan kondisi kabut asap secara visual.
 
-Lokasi penyimpanan: `Ekstraksi_frame_citra/`
+Lokasi penyimpanan: `Ekstraksi-Frame-Citra-Sampel`
