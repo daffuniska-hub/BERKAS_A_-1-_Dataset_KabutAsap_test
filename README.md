@@ -12,7 +12,7 @@ Proyek ini berisi pengumpulan dan pengolahan video yang mendokumentasikan kondis
 4. Melakukan ekstraksi frame citra dari video.
 5. Menyimpan informasi sumber asli setiap video.
 
-## 4. Informasi Dataset
+## 3. Informasi Dataset
 
 - Jumlah video: 20 video
 - Format video: MP4
@@ -20,7 +20,7 @@ Proyek ini berisi pengumpulan dan pengolahan video yang mendokumentasikan kondis
 - Jumlah frame: 20
 - Tema: Dokumentasi kabut asap akibat karhutla.
 
-## 5. Daftar Sumber Video
+## 4. Daftar Sumber Video
 
 | No. | Nama Video | URL Sumber Asli | Durasi | Keterangan |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ Sampai pondok ulun aja gak keliatan.kalimantan udaranya gak sehat Lekas sehat Ka
 jika video tidak bisa di download/dibuka gunakan link drive di bawah ini
 https://drive.google.com/drive/folders/1Z24_Dj76fyA8HmkM1nxb8WhKfAICaXe8?usp=drive_link
 
-## 6. Ekstraksi Frame Citra
+## 5. Ekstraksi Frame Citra
 
 Frame citra diambil dari video yang telah dikumpulkan untuk memperlihatkan kondisi kabut asap secara visual.
 
